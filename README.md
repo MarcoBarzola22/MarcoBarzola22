@@ -8,7 +8,7 @@ Soy Desarrollador Full-Stack y estudiante de 4to año de Ingeniería en Sistemas
 
 - 💻 Experiencia sólida construyendo aplicaciones modernas con el ecosistema **React (React 19, React Query), TypeScript, Node.js y Express**.
 - 🗄️ Diseño e integración de bases de datos relacionales con **PostgreSQL, MySQL y SQLite** utilizando **Prisma ORM**.
-- 🤖 Apasionado por la automatización de flujos de trabajo (n8n) y usuario avanzado de herramientas asistidas por IA (**Cursor, Claude Code y Lovable**) para optimizar el ciclo de desarrollo.
+- 🤖 Apasionado por la automatización de flujos de trabajo (n8n) y usuario avanzado de herramientas asistidas por IA (**Cursor y Claude Code**) para optimizar el ciclo de desarrollo.
 - 🚀 Experiencia implementando arquitecturas offline-first (Electron) y despliegues contenerizados (Docker).
 - 📫 Contáctame en: <a href="mailto:marcobarzoladev@gmail.com">marcobarzoladev@gmail.com</a> o conectemos en <a href="https://www.linkedin.com/in/marco-nicolás-barzola-789a8a341" target="_blank">LinkedIn</a>.
 
